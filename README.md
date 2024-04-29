@@ -19,7 +19,7 @@ superiority of the deep learning models used. ResNet-18 gave us the best results
 with an accuracy of 98%.
 
 #### Done by: 
-Sayali Bhongade<br> -A20524430
+Sayali Bhongade -A20524430 <br>
 Sudeshna Gunjote -A20551376
 
 Link to Download Dataset - [Link](https://www.kaggle.com/shayanfazeli/heartbeat)
